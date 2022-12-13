@@ -20,7 +20,6 @@ This code is in Kotlin.
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I want to make the edit feature easier to use. I want to make it so you can choose what you want to edit.
 * I want to add a front end for this app.
 * I want to add more options for displaying in different categories like duration, difficulty, and favorited items.
