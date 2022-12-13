@@ -15,7 +15,7 @@ This code is in Kotlin.
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Jet Brains]https://www.jetbrains.com
+* [Jet Brains](https://www.jetbrains.com)
 * [Techie Delight](https://www.techiedelight.com/)
 
 # Future Work
